@@ -1,2 +1,4 @@
 #Prova di creazione file.
 Progetto di rilascio in cantiere per 2027/12
+
+Aggiunta nuova riga
